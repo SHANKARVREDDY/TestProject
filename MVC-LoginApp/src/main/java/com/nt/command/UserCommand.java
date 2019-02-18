@@ -6,6 +6,7 @@ public class UserCommand {
 private String username,pwd;
 private String dmn;
 private Date date;
+	private String addrs;
 public String getUsername() {
 	return username;
 }
